@@ -13,7 +13,7 @@
 
 <!-- Typing Effect -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=600&lines=SANS+Certified+(GPEN+99%25+%7C+GCFA+93%25);HTB+Certified+Bug+Bounty+Hunter;HTB+Certified+Penetration+Testing+Specialist;Practical+Network+Penetration+Tester" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=600&lines=GIAC+Penetration+Testing+Specialist;GIAC+Certified+Forensics+Analyst;Certified+Bug+Bounty+Hunter;Certified+Penetration+Testing+Specialist;Practical+Network+Penetration+Tester" alt="Typing SVG" />
 </a>
 
 </div>
