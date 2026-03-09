@@ -13,7 +13,7 @@
 
 <!-- Typing Effect -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=600&lines=GIAC+Penetration+Tester;GIAC+Certified+Forensic+Analyst;Certified+Bug+Bounty+Hunter;Certified+Penetration+Testing+Specialist;Practical+Network+Penetration+Tester" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=600&lines=GIAC+Reverse+Engineering+Malware;GIAC+Penetration+Tester;GIAC+Certified+Forensic+Analyst;Certified+Bug+Bounty+Hunter;Certified+Penetration+Testing+Specialist;Practical+Network+Penetration+Tester" alt="Typing SVG" />
 </a>
 
 </div>
@@ -30,6 +30,7 @@ I am passionate about automating SOC workflows using **Python** (creating custom
 
 | Certification | Authority | Achievement |
 | :--- | :--- | :--- |
+| **GREM** (GIAC Reverse Engineering Malware) | SANS Institute | **Score: 93%** |
 | **GPEN** (GIAC Penetration Tester) | SANS Institute | **Score: 99%** |
 | **GCFA** (GIAC Certified Forensic Analyst) | SANS Institute | **Score: 93%** |
 | **Certified Bug Bounty Hunter** | Hack The Box | |
@@ -40,11 +41,12 @@ I am passionate about automating SOC workflows using **Python** (creating custom
 
 ## 🛠️ Professional Skillset
 
-### 🛡️ Defensive Operations (GCFA Focus)
+### 🛡️ Defensive Operations (GREM, GCFA Focus)
 - **Advanced Digital Forensics:** Leveraging KAPE, Velociraptor, and MemProcFS for deep-dive analysis.
 - **Incident Response:** End-to-end lifecycle management and automated triage.
 - **Threat Hunting:** Proactive identification of adversaries using EDR and SIEM telemetry.
 - **SOC Automation:** Python-based SOAR engineering and AI-enhanced event summarization.
+- **Malware Analysis:** Reverse Engineering and Behavioral analysis of malware specimens.
 
 ### ⚔️ Offensive Operations (GPEN, CPTS, CBBH Focus)
 - **Enterprise Penetration Testing:** Advanced network exploitation and AD environment assessment.
