@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/cybergeorge/)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:gzamfirx@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/7a336e6e)
-
+<img src="https://komarev.com/ghpvc/?username=paulpol25&style=for-the-badge&color=00f2ff&label=PROFILE+SCANS" alt="Profile views" />
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Protecting%20Digital%20Assets&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Incident%20Response%20%E2%80%A2%20Digital%20Forensics%20%E2%80%A2%20Automation&descAlignY=55&descAlign=50" alt="Header" width="100%"/>
